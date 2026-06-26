@@ -73,7 +73,8 @@ The project is designed for beginners and business users who want to analyze Exc
 Example:
 
 ```
-<img width="1919" height="1079" alt="Screenshot 2026-04-08 121611" src="https://github.com/user-attachments/assets/fa7bf2ee-454c-433c-9296-b759e7c3471a" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-08 121611" src="https://github.com/user-attachments/assets/5cd4655f-89d6-4db6-8509-eaf9daeff068" />
+
 
 ```
 
